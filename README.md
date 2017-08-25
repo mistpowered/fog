@@ -1,2 +1,2 @@
 # fog
-Cross-platform window and input
+Cross-platform window, input, audio and graphics
